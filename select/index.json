@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Falling Away From Me",
+  "base_artist": "コーン",
+  "createdAt": "2026-02-17T17:18:42.698007Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Falling Away from Me",
+      "artist": "Korn",
+      "has_synced": true,
+      "path": "select/01_Falling_Away_from_Me_Korn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Falling Away from Me",
+      "artist": "KoЯn",
+      "has_synced": true,
+      "path": "select/02_Falling_Away_from_Me_KoЯn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Falling Away From Me",
+      "artist": "Kadinja",
+      "has_synced": false,
+      "path": "select/03_Falling_Away_From_Me_Kadinja.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Falling Away From Me",
+      "artist": "Koßn",
+      "has_synced": true,
+      "path": "select/04_Falling_Away_From_Me_Koßn.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Falling Away From Me",
+      "artist": "Korn",
+      "has_synced": false,
+      "path": "select/pl_01_Falling_Away_From_Me_Korn.txt"
+    }
+  ]
+}
